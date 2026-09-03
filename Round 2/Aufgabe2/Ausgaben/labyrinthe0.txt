@@ -1,0 +1,3 @@
+filename: labyrinthe0.txt
+Amount of Actions: 8
+SSDWWDSS

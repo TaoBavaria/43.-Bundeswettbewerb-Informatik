@@ -1,0 +1,4 @@
+filename: labyrinthe7.txt
+No solution for labyrinth 2
+Amount of Actions: 74
+DSSDWWDSSSSSDDDSSDSDWDWDDDDDWAWWWDSDWDDSSDDWDWDDSSDDWWDSDDDDSSAASAASSSDDDD

@@ -1,0 +1,2 @@
+filename: EdgeCase_1.txt
+No solutions for both.
